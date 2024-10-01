@@ -24,31 +24,30 @@
 
     <img src="assets/image/banner.png" alt="Banner" class="object-fit-cover" style="width: 100%; height: 400px">
 
-    <div class="container pt-5">
-    <div class="row ">
-        <div class="bg-danger col-4">
-            Sampah B3
-            <p>
-           Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam eos, ex asperiores optio accusamus voluptatem quo suscipit minima modi iusto corporis temporibus ipsum dicta doloribus iure cumque, vero repudiandae maiores!
-           </p> 
-        </div>
+    <div class="container-fluid mt-5 px-5">
+        <div class="row gap-3">
+            <div class="col-sm bg-danger">
+                Sampah B3
+                <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam eos, ex asperiores optio accusamus voluptatem quo suscipit minima modi iusto corporis temporibus ipsum dicta doloribus iure cumque, vero repudiandae maiores!
+                </p> 
+            </div>
 
-        <div class="bg-success col-4">
-            Sampah Organik
+            <div class="col-sm bg-success">
+                Sampah Organik
+                <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam eos, ex asperiores optio accusamus voluptatem quo suscipit minima modi iusto corporis temporibus ipsum dicta doloribus iure cumque, vero repudiandae maiores!
+                </p> 
+            </div>
 
-           <p>
-           Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam eos, ex asperiores optio accusamus voluptatem quo suscipit minima modi iusto corporis temporibus ipsum dicta doloribus iure cumque, vero repudiandae maiores!
-           </p> 
+            <div class="col-sm bg-warning">
+                Sampak Anorganik
+                <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam eos, ex asperiores optio accusamus voluptatem quo suscipit minima modi iusto corporis temporibus ipsum dicta doloribus iure cumque, vero repudiandae maiores!
+                </p> 
+            </div>
         </div>
-
-        <div class="bg-warning col-4">
-            Sampak Anorganik
-            <p>
-           Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam eos, ex asperiores optio accusamus voluptatem quo suscipit minima modi iusto corporis temporibus ipsum dicta doloribus iure cumque, vero repudiandae maiores!
-           </p> 
-        </div>
-    </div>
-    </div>
+    </div>
 
     <div>
 
